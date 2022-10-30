@@ -1,6 +1,37 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"RAID 22":
+  url: https://raid2022.cs.ucy.ac.cy/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PAM 20":
+  url: https://pam2020.cs.uoregon.edu/
+
+"CNS 19":
+  url: https://cns2019.ieee-cns.org/
+
+"IWQoS 20":
+  url: https://iwqos2020.ieee-iwqos.org/
+
+"KDD MLHat 20":
+  url: https://mlhat.org/mlhat-kdd-2020-2/
+
+"AsiaCCS 20":
+  url: https://asiaccs2020.cs.nthu.edu.tw/
+
+"TDSC":
+  url: https://www.computer.org/csdl/journals/tq
+  color: blue
+
+"JSAC":
+  url: https://www.comsoc.org/publications/journals/ieee-jsac
+  color: blue
+
+"UO CS Report":
+  url: https://cs.uoregon.edu/available-reports
+  color: grey
+
+"Master Thesis":
+  url: https://scholarsbank.uoregon.edu/
+  color: grey
+
+"arXiv":
+  url: https://arxiv.org/
+  color: orange
