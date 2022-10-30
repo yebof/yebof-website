@@ -3,30 +3,39 @@
   contents:
     - name: Full Name
       value: Yebo Feng
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Email
+      value: yebof@uoregon.edu / fengyebo@gmail.com
+    - name: Skype
+      value: sunsonfyb
     - name: Languages
       value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer and Information Science
+      institution: Department of Computer and Information Science, University of Oregon
+      year: 2018 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Adviser: Prof. Jun Li."
+        - "GPA: 3.99."
+    - title: M.S. in Computer and Information Science
+      institution: Department of Computer and Information Science, University of Oregon
+      year: 2016 - 2018
+      description:
+        - "Adviser: Prof. Jun Li."
+        - title: Master Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - "BotFlowMon: Identify Social Bot Traffic with NetFlow and Machine Learning"
+        - "GPA: 3.89."
+    - title: B.E. in Computer Science and Technology
+      institution: College of Information Engineering, Yangzhou University
+      year: 2012 - 2016
       description:
-        - Description 1.
-        - Description 2.
+        - "Adviser: Prof. Xiaohua Xu."
+        - title: Bachelor Thesis
+          contents:
+            - Clustering Algorithm Based on Density Sort and Valley Point Competition
 
 - title: Experience
   type: time_table
@@ -61,24 +70,6 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -90,8 +81,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
