@@ -35,3 +35,7 @@
 "arXiv":
   url: https://arxiv.org/
   color: orange
+
+"CSUR":
+  url: https://dl.acm.org/journal/csur
+  color: blue
