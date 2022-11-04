@@ -19,6 +19,7 @@ nav_order: 3
 - IEEE Journal on Selected Areas in Communications (JSAC).
 - IEEE Transactions on Mobile Computing (TMC).
 - ACM Transactions on Knowledge Discovery from Data (TKDD).
+- Security and Communication Networks (SCN).
 - Financial Innovation (FIN).
 
 ### Reviewer for Conferences/Workshops
