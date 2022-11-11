@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+##### **RAID 2022 Student Travel Grant**, _Organizing Committee of RAID. (August 2022)_
+
 ##### **Ripple Graduate Fellowship**, _Ripple Labs, Inc. (2021 - 2022)_
 
 ##### **Ripple Graduate Fellowship**, _Ripple Labs, Inc. (2020 - 2021)_
@@ -20,5 +22,7 @@ nav_order: 4
 ##### **2019 IEEE CNS Best Paper Award**, _IEEE ComSoc. (June 2019)_
 
 ##### **2019 IEEE CNS Student Travel Grant**, _IEEE ComSoc. (June 2019)_
+
+##### **Graduate Teaching Fellowship**, _University of Oregon. (2017-2018)_
 
 ##### **Second-Class Chancellor's Scholarship**, _Yangzhou University. (2014 - 2015)_
